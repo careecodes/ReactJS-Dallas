@@ -20,4 +20,6 @@ Vishnu Ramineni
 * Splunk
 * Rollbar
 
-## 
+## ELK Stack Components
+* ELK Stack comprises Elasticsearch for searching/data analysis, Logstash for centraliszed logging, and Kibana for visualizing data
+* 
